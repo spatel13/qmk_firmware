@@ -18,6 +18,8 @@
     #include "62key.h"
 #elif KEYBOARD_handwired_dactyl_manuform_5x6_right_trackball
 #    include "5x6_right_trackball.h"
+#elif KEYBOARD_handwired_dactyl_manuform_5x6_spatel
+    #include "5x6_spatel.h"
 #endif
 
 #include "quantum.h"
